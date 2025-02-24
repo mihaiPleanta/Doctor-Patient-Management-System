@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Family Doctor Patient Management System is a web application designed to help family doctors efficiently manage patients, appointments, consultations and prescriptions. The application provides a secure and centralized platform for handling patient records and medical history.
+The Doctor Patient Management System is a web application designed to help family doctors efficiently manage patients, appointments, consultations and prescriptions. The application provides a secure and centralized platform for handling patient records and medical history.
 
 ## Features
 
